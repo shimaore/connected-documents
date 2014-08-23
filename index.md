@@ -37,7 +37,7 @@ Example: e-book
 ===============
 
 - index.html = application = e-book reader
-- content (book): as attachment
+- content (book): as attachment(s)
 - JSON metadata: store user's progress, book metadata, ..
 
 Offline-first
@@ -59,8 +59,8 @@ Physical Objects
 Physical objects
 ================
 
-- Provide the document-cum-application data about their environment
-- May be commanded by the document to interact with their environment
+- Feed the document/application data about their environment
+- Document asks them to interact with their environment
 - Gather data and react to it on their own
 - Modify the document when they are connected with it
 
